@@ -58,9 +58,3 @@
 
 ---
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/chaudhariDivyesh/Text-detection
-   cd Text-detection
